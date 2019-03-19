@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Grammi",
+      "image": "./Image/Grammi.png",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Zummi",
+      "image": "./Image/Zummi.png",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Tummi",
+      "image": "./Image/Tummi.png",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Gruffi",
+      "image": "./Image/Gruffi.png",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Gusto",
+      "image": "./Image/Gusto.png",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Sunni",
+      "image": "./Image/Sunni.png",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Toadwart",
+      "image": "./Image/Toadwart.png",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Ogres",
+      "image": "./Image/Ogres.png",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Tuxford",
+      "image": "./Image/Tuxford.png",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Calla",
+      "image": "./Image/Calla.png",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Cavin",
+      "image": "./Image/Cavin.png",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Igthorn",
+      "image": "./Image/Igthorn.png",
+      "count": 0
+    }
+  ]
